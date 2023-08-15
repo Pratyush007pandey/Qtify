@@ -1,0 +1,25 @@
+.hero-container {
+  width: 100vw;
+  height: 270px;
+  flex-shrink: 0;
+  background: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 31px;
+}
+.hero-text {
+  color: white;
+  width: 556px;
+  height: 100px;
+  flex-shrink: 0;
+}
+.hero-text p {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
